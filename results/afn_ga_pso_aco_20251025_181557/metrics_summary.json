@@ -1,0 +1,362 @@
+{
+  "AFN": {
+    "func8_dim2": {
+      "convergence_speed": 5.0,
+      "optimization_accuracy": 93.89594846782657,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 41.52913575805221,
+      "robustness": 100.0,
+      "mean_best": 217.2448323311492,
+      "std_best": 0.0,
+      "mean_time": 3.5358150362968446,
+      "n_runs": 20
+    },
+    "func8_dim5": {
+      "convergence_speed": 4.0,
+      "optimization_accuracy": 96.66683284614278,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 45.03940703931515,
+      "robustness": 99.99999999999997,
+      "mean_best": 3760.628946785296,
+      "std_best": 9.094947017729282e-13,
+      "mean_time": 2.3413962364196776,
+      "n_runs": 20
+    },
+    "func8_dim10": {
+      "convergence_speed": 66.0,
+      "optimization_accuracy": 89.81218060426957,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 44.919577307530126,
+      "robustness": 100.0,
+      "mean_best": 21475.553708705476,
+      "std_best": 0.0,
+      "mean_time": 8.1634521484375e-05,
+      "n_runs": 20
+    },
+    "func8_dim20": {
+      "convergence_speed": 100.0,
+      "optimization_accuracy": 57.07759322866305,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 44.423760295825154,
+      "robustness": 99.99999999999999,
+      "mean_best": 118657.20384941324,
+      "std_best": 1.4551915228366852e-11,
+      "mean_time": 0.00018144845962524413,
+      "n_runs": 20
+    },
+    "func23_dim2": {
+      "convergence_speed": 66.0,
+      "optimization_accuracy": 50.93289530336166,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 43.530784788161355,
+      "robustness": 99.99999999999996,
+      "mean_best": 8.165633449958033,
+      "std_best": 3.552713678800501e-15,
+      "mean_time": 3.533526527881622,
+      "n_runs": 20
+    },
+    "func23_dim5": {
+      "convergence_speed": 33.0,
+      "optimization_accuracy": 69.68683162936236,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 45.8446832298799,
+      "robustness": 99.99999999999999,
+      "mean_best": 11.402779006843152,
+      "std_best": 1.7763568394002505e-15,
+      "mean_time": 2.3519083499908446,
+      "n_runs": 20
+    },
+    "func23_dim10": {
+      "convergence_speed": 5.0,
+      "optimization_accuracy": 60.43435229997933,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 44.621005014459065,
+      "robustness": 100.0,
+      "mean_best": 11.225990518967848,
+      "std_best": 0.0,
+      "mean_time": 0.00018399953842163086,
+      "n_runs": 20
+    },
+    "func23_dim20": {
+      "convergence_speed": 41.0,
+      "optimization_accuracy": 48.87016939573633,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 44.15517881832242,
+      "robustness": 100.0,
+      "mean_best": 11.309265360586325,
+      "std_best": 0.0,
+      "mean_time": 0.0005930066108703613,
+      "n_runs": 20
+    }
+  },
+  "GA": {
+    "func8_dim2": {
+      "convergence_speed": 20.15,
+      "optimization_accuracy": 1.3144570909307096,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 99.78438808264082,
+      "mean_best": 149.26530015076594,
+      "std_best": 0.32183377560700316,
+      "mean_time": 0.03902789354324341,
+      "n_runs": 20
+    },
+    "func8_dim5": {
+      "convergence_speed": 9.15,
+      "optimization_accuracy": 84.98624918154847,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 99.29356746664159,
+      "mean_best": 150.3083605539308,
+      "std_best": 1.0618271593106123,
+      "mean_time": 0.047342002391815186,
+      "n_runs": 20
+    },
+    "func8_dim10": {
+      "convergence_speed": 8.3,
+      "optimization_accuracy": 98.88264454697266,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 86.56162681534703,
+      "mean_best": 175.13127529159374,
+      "std_best": 23.53479433672631,
+      "mean_time": 0.06008371114730835,
+      "n_runs": 20
+    },
+    "func8_dim20": {
+      "convergence_speed": 13.15,
+      "optimization_accuracy": 99.68071496790975,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 86.37633174029406,
+      "mean_best": 310.3689053391849,
+      "std_best": 42.28363004469128,
+      "mean_time": 0.08558176755905152,
+      "n_runs": 20
+    },
+    "func23_dim2": {
+      "convergence_speed": 35.35,
+      "optimization_accuracy": 29.94462177576052,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 95.1935431692694,
+      "mean_best": 7.6435832536974235,
+      "std_best": 0.36738552940991975,
+      "mean_time": 0.04127782583236694,
+      "n_runs": 20
+    },
+    "func23_dim5": {
+      "convergence_speed": 47.65,
+      "optimization_accuracy": 22.637400115505965,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 96.15490445484737,
+      "mean_best": 7.992022389748575,
+      "std_best": 0.30730089687582357,
+      "mean_time": 0.05169222354888916,
+      "n_runs": 20
+    },
+    "func23_dim10": {
+      "convergence_speed": 46.7,
+      "optimization_accuracy": 20.380303864254177,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 95.52732893609249,
+      "mean_best": 8.619162814321164,
+      "std_best": 0.3855068011472197,
+      "mean_time": 0.07011634111404419,
+      "n_runs": 20
+    },
+    "func23_dim20": {
+      "convergence_speed": 54.65,
+      "optimization_accuracy": 18.506717029693235,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 96.90076887523774,
+      "mean_best": 9.717993833690022,
+      "std_best": 0.3011830895961978,
+      "mean_time": 0.10496596097946168,
+      "n_runs": 20
+    }
+  },
+  "PSO": {
+    "func8_dim2": {
+      "convergence_speed": 9.0,
+      "optimization_accuracy": 4.554459160462921,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 99.99999999952229,
+      "mean_best": 149.150000000248,
+      "std_best": 7.125124477529136e-10,
+      "mean_time": 0.032144999504089354,
+      "n_runs": 20
+    },
+    "func8_dim5": {
+      "convergence_speed": 8.4,
+      "optimization_accuracy": 86.84601392511425,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 98.62859722245211,
+      "mean_best": 150.87302974394896,
+      "std_best": 2.0690769204791755,
+      "mean_time": 0.05474834442138672,
+      "n_runs": 20
+    },
+    "func8_dim10": {
+      "convergence_speed": 8.7,
+      "optimization_accuracy": 99.34300350814101,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 90.11761603134619,
+      "mean_best": 161.45929921491842,
+      "std_best": 15.956027901515892,
+      "mean_time": 0.09124926328659058,
+      "n_runs": 20
+    },
+    "func8_dim20": {
+      "convergence_speed": 12.7,
+      "optimization_accuracy": 99.5447625726734,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 53.549654657314164,
+      "mean_best": 586.4508117645277,
+      "std_best": 272.4084273296076,
+      "mean_time": 0.1610398769378662,
+      "n_runs": 20
+    },
+    "func23_dim2": {
+      "convergence_speed": 56.4,
+      "optimization_accuracy": 37.74574459290163,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 96.75663431802052,
+      "mean_best": 7.180244251168697,
+      "std_best": 0.2328815779247105,
+      "mean_time": 0.03308484554290771,
+      "n_runs": 20
+    },
+    "func23_dim5": {
+      "convergence_speed": 72.1,
+      "optimization_accuracy": 27.538217061618923,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 93.91343526515644,
+      "mean_best": 7.745946537527885,
+      "std_best": 0.4714620503330084,
+      "mean_time": 0.05560232400894165,
+      "n_runs": 20
+    },
+    "func23_dim10": {
+      "convergence_speed": 67.0,
+      "optimization_accuracy": 32.44502180238526,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 94.10045592699603,
+      "mean_best": 8.089773521317847,
+      "std_best": 0.47725975429635104,
+      "mean_time": 0.09547920227050781,
+      "n_runs": 20
+    },
+    "func23_dim20": {
+      "convergence_speed": 76.15,
+      "optimization_accuracy": 26.927725729815553,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 91.53747013588836,
+      "mean_best": 9.127580194801151,
+      "std_best": 0.7724241998557875,
+      "mean_time": 0.16758852005004882,
+      "n_runs": 20
+    }
+  },
+  "ACO": {
+    "func8_dim2": {
+      "convergence_speed": 17.55,
+      "optimization_accuracy": 10.93970717656928,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 99.99650870892933,
+      "mean_best": 149.35906352668894,
+      "std_best": 0.0052145596481633395,
+      "mean_time": 0.03384959697723389,
+      "n_runs": 20
+    },
+    "func8_dim5": {
+      "convergence_speed": 47.1,
+      "optimization_accuracy": 92.22744815638546,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 87.42242083098243,
+      "mean_best": 178.2803977631401,
+      "std_best": 22.42335817149838,
+      "mean_time": 0.07816841602325439,
+      "n_runs": 20
+    },
+    "func8_dim10": {
+      "convergence_speed": 46.55,
+      "optimization_accuracy": 86.9387989206875,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 74.08529627396436,
+      "mean_best": 4050.6194665260655,
+      "std_best": 1049.706033819355,
+      "mean_time": 0.15192015171051027,
+      "n_runs": 20
+    },
+    "func8_dim20": {
+      "convergence_speed": 38.9,
+      "optimization_accuracy": 68.36657994597326,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 71.8036248119334,
+      "mean_best": 50723.821272569396,
+      "std_best": 14302.278955738006,
+      "mean_time": 0.299872612953186,
+      "n_runs": 20
+    },
+    "func23_dim2": {
+      "convergence_speed": 35.35,
+      "optimization_accuracy": 35.61805620698896,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 94.63937455153075,
+      "mean_best": 7.427336929503066,
+      "std_best": 0.3981517135864954,
+      "mean_time": 0.03430631160736084,
+      "n_runs": 20
+    },
+    "func23_dim5": {
+      "convergence_speed": 50.6,
+      "optimization_accuracy": 28.956950410198328,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 94.88661481509266,
+      "mean_best": 8.277859605645043,
+      "std_best": 0.4232788467024835,
+      "mean_time": 0.07960684299468994,
+      "n_runs": 20
+    },
+    "func23_dim10": {
+      "convergence_speed": 43.9,
+      "optimization_accuracy": 25.756798783005905,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 95.10217839505867,
+      "mean_best": 8.829523524499146,
+      "std_best": 0.4324543107962952,
+      "mean_time": 0.1586658239364624,
+      "n_runs": 20
+    },
+    "func23_dim20": {
+      "convergence_speed": 52.2,
+      "optimization_accuracy": 26.281561033320344,
+      "resource_utilization": 100.0,
+      "exploitation_balance_ratio": 100.0,
+      "robustness": 95.1635636333973,
+      "mean_best": 9.862376864263204,
+      "std_best": 0.4769875812746354,
+      "mean_time": 0.3113850474357605,
+      "n_runs": 20
+    }
+  }
+}

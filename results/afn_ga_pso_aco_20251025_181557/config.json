@@ -1,0 +1,21 @@
+{
+  "test_functions": [
+    8,
+    23
+  ],
+  "dimensions": [
+    2,
+    5,
+    10,
+    20
+  ],
+  "n_runs": 20,
+  "max_evaluations": 100,
+  "algorithms": [
+    "AFN",
+    "GA",
+    "PSO",
+    "ACO"
+  ],
+  "timestamp": "2025-10-25T18:20:40.917548"
+}
